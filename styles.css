@@ -321,7 +321,7 @@ section {
 .nav-toggle span {
   width: 24px;
   height: 2px;
-  background: #FFFFFF;
+  background: #0F0F0F;
   transition: transform var(--motion-fast) var(--ease-out),
               opacity var(--motion-fast) var(--ease-out);
 }
