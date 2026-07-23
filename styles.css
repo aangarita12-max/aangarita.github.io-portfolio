@@ -250,8 +250,8 @@ section {
 
 .logo-mark {
   flex: 0 0 auto;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   display: block;
 }
 
@@ -321,7 +321,7 @@ section {
 .nav-toggle span {
   width: 24px;
   height: 2px;
-  background: var(--text);
+  background: #FFFFFF;
   transition: transform var(--motion-fast) var(--ease-out),
               opacity var(--motion-fast) var(--ease-out);
 }
