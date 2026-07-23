@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 800 560">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #3a3a38;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 13px;
+        font-weight: 700;
+        letter-spacing: .2em;
+      }
+
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        fill: none;
+        stroke: #c94a25;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .st3 {
+        fill: #ff65b3;
+      }
+
+      .st1 {
+        font-family: Arial-Black, 'Arial Black';
+        font-size: 40px;
+        font-weight: 800;
+      }
+
+      .st1, .st4 {
+        fill: #0f0f0f;
+      }
+    </style>
+  </defs>
+  <rect class="st3" width="800" height="560"/>
+  <polyline class="st2" points="460 340 540 260 610 300 690 180 760 140"/>
+  <circle class="st4" cx="760" cy="140" r="8"/>
+  <text class="st1" transform="translate(48 512)"><tspan x="0" y="0">NOVA</tspan></text>
+  <text class="st0" transform="translate(48 56)"><tspan x="0" y="0">BRANDING · EDITORIAL</tspan></text>
+</svg>
