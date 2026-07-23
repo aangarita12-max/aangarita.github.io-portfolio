@@ -260,15 +260,6 @@ section {
   height: 100%;
 }
 
-.address-block {
-  font-size: 13px;
-  line-height: 1.5;
-}
-
-.address-block .meta-label {
-  display: block;
-}
-
 .primary-nav {
   grid-column: 2;
   display: none;
@@ -287,11 +278,6 @@ section {
   letter-spacing: 0.04em;
   position: relative;
   padding-bottom: 2px;
-}
-
-.primary-nav a span.num {
-  color: var(--text-secondary);
-  margin-right: 4px;
 }
 
 .primary-nav a::after {
@@ -387,15 +373,6 @@ section {
   font-family: var(--font-display);
   text-transform: uppercase;
   font-size: clamp(32px, 12vw, 56px);
-}
-
-.nav-overlay a span.num {
-  color: var(--accent);
-  font-family: var(--font-body);
-  font-size: 16px;
-  letter-spacing: 0.1em;
-  margin-right: 12px;
-  vertical-align: middle;
 }
 
 @media (min-width: 768px) {
