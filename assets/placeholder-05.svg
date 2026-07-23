@@ -1,46 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 801.5 560">
-  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
-  <defs>
-    <style>
-      .st0 {
-        fill: #3a3a38;
-        font-family: Arial-BoldMT, Arial;
-        font-size: 13px;
-        font-weight: 700;
-        letter-spacing: .2em;
-      }
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+<rect width="800" height="560" fill="#E5DFD2"/>
 
-      .st0, .st1 {
-        isolation: isolate;
-      }
+<polygon points="480,340 590,160 660,260 720,190 800,340" fill="none" stroke="#0F0F0F" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="590,160 630,220 550,220" fill="#C94A25"/>
+<text x="48" y="512" font-family="Arial Black, Arial, sans-serif" font-size="40" font-weight="900" fill="#0F0F0F" letter-spacing="-1">PEAK</text>
+<text x="48" y="56" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#3A3A38" letter-spacing="2">DIGITAL &#183; UX/UI</text>
 
-      .st2 {
-        fill: none;
-        stroke: #0f0f0f;
-        stroke-linejoin: round;
-        stroke-width: 3px;
-      }
-
-      .st3 {
-        fill: #00b55f;
-      }
-
-      .st4 {
-        fill: #c94a25;
-      }
-
-      .st1 {
-        fill: #0f0f0f;
-        font-family: Arial-Black, 'Arial Black';
-        font-size: 40px;
-        font-weight: 800;
-      }
-    </style>
-  </defs>
-  <rect class="st3" width="800" height="560"/>
-  <polygon class="st2" points="480 340 590 160 660 260 720 190 800 340 480 340"/>
-  <polygon class="st4" points="590 160 630 220 550 220 590 160"/>
-  <text class="st1" transform="translate(48 512)"><tspan x="0" y="0">PEAK</tspan></text>
-  <text class="st0" transform="translate(48 56)"><tspan x="0" y="0">DIGITAL · UX/UI</tspan></text>
 </svg>
