@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+<rect width="800" height="560" fill="#E5DFD2"/>
+
+<polyline points="460,340 540,260 610,300 690,180 760,140" fill="none" stroke="#C94A25" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="760" cy="140" r="8" fill="#0F0F0F"/>
+<text x="48" y="512" font-family="Arial Black, Arial, sans-serif" font-size="40" font-weight="900" fill="#0F0F0F" letter-spacing="-1">NOVA</text>
+<text x="48" y="56" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#3A3A38" letter-spacing="2">BRANDING &#183; EDITORIAL</text>
+
+</svg>

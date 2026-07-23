@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560">
+<rect width="800" height="560" fill="#E5DFD2"/>
+
+<rect x="460" y="70" width="90" height="300" fill="none" stroke="#0F0F0F" stroke-width="2" opacity="0.5"/>
+<rect x="570" y="70" width="90" height="180" fill="#C94A25" opacity="0.85"/>
+<rect x="680" y="70" width="90" height="300" fill="none" stroke="#0F0F0F" stroke-width="2" opacity="0.5"/>
+<text x="48" y="512" font-family="Arial Black, Arial, sans-serif" font-size="40" font-weight="900" fill="#0F0F0F" letter-spacing="-1">COASTAL</text>
+<text x="48" y="56" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#3A3A38" letter-spacing="2">EDITORIAL &#183; DIGITAL</text>
+
+</svg>
